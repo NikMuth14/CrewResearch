@@ -14,6 +14,7 @@ crew_basic/
 ├── Dockerfile           # Docker configuration for building the app
 ├── main.py              # Your Python entry point
 └── requirements.txt     # Python dependencies
+└──.venv                 #Add a virtual enviroment if not running on a Docker
 ```
 
 ---
