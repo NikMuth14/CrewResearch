@@ -25,6 +25,7 @@ Make sure you have the following installed:
 
 - [Docker](https://www.docker.com/)
 - Python 3.12 (only if running locally without Docker)
+- Try using Python 3.11+ if its not working
 
 ---
 
